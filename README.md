@@ -9,3 +9,5 @@ Digital Traffic Light implementaion using Tiva™ (TM4C123G) LaunchPad in C (Pro
 - UART Countdown display for Pedestrians waiting and Pedestrians passing.
 - Button detection on falling edge.
 - Led blinking for 1 second.
+
+Project Date: Jun 2020

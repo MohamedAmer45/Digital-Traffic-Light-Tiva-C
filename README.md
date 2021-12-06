@@ -1,6 +1,6 @@
 # Digital-Traffic-Light-Tiva-C
 
-Digital Traffic Light implementaion using Tiva™ (TM4C123G) LaunchPad in C (Programming Language).
+Digital Traffic Light implementation using Tiva™ (TM4C123G) LaunchPad in C (Programming Language).
 
 # Implemented Functions:
 
